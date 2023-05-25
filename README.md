@@ -1,6 +1,6 @@
 # STR_benchmark_cleansed
 
-## Download cleansed lmdb dataset for the six benchmarks from [BaiduCloud](https://pan.baidu.com/s/1VGJR43eBbxpk-hZ9MVf62A)(psw:rnso) and [GoogleDrive]()
+Download cleansed lmdb datasets for the six benchmarks from [BaiduCloud](https://pan.baidu.com/s/1VGJR43eBbxpk-hZ9MVf62A)(psw:rnso) and [GoogleDrive]()
 
 Despite the widespread use of the six benchmarks (IIIT5k[1], SVT[2], IC13[3], IC15[4], SVTP[5] and CUTE[6]) for scene text recognition, we have noticed that there are mislabeled images in the benchmark. Although Baek et al.[7] provided a version of cleansed labels for benchmark datasets, there are still several mislabeled images. We conduct further verification of these labels. The mislabeled examples can be classified into three types: missing character, alphabetic error, and completely wrong. We will provide the cleansed benchmark datasets to ensure a more accurate evaluation of scene text recognition models.
 
