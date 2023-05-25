@@ -1,9 +1,8 @@
 # STR_benchmark_cleansed
 
-Download cleansed lmdb datasets for the six benchmarks from [BaiduCloud](https://pan.baidu.com/s/1VGJR43eBbxpk-hZ9MVf62A)(psw:rnso) and [GoogleDrive]()
+Download cleansed lmdb datasets for the six benchmarks from [BaiduCloud](https://pan.baidu.com/s/1VGJR43eBbxpk-hZ9MVf62A)(psw:rnso) and [GoogleDrive](https://drive.google.com/file/d/1xFYOGCNUdUwHdnDWk2fQVHmlSBcEV3zG/view?usp=sharing)
 
-Despite the widespread use of the six benchmarks (IIIT5k[1], SVT[2], IC13[3], IC15[4], SVTP[5] and CUTE[6]) for scene text recognition, we have noticed that there are mislabeled images in the benchmark. Although Baek et al.[7] provided a version of cleansed labels for benchmark datasets, there are still several mislabeled images. We conduct further verification of these labels. The mislabeled examples can be classified into three types: missing character, alphabetic error, and completely wrong. We will provide the cleansed benchmark datasets to ensure a more accurate evaluation of scene text recognition models.
-
+Despite the widespread use of the six benchmarks (IIIT5k[1], SVT[2], IC13[3], IC15[4], SVTP[5] and CUTE[6]) for scene text recognition, we have noticed that there are mislabeled images in the benchmark. Baek et al.[7] provided a version of cleansed labels for benchmark datasets. However, there are still several mislabeled images. We conduct further verification of these labels. The mislabeled examples can be classified into three types: missing character, alphabetic error, and completely wrong. Hope the cleansed benchmark datasets to ensure a more accurate evaluation of scene text recognition models. If you notice that there are still mistakes, please point out that and we can update the labels of the benchmarks.
 
 ## Reference
 [1] A. Mishra, K. Alahari, and C. Jawahar. Scene text recognition using higher order language priors. In BMVC, 2012.
